@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SDWally, working in Shanghai.
-- 👀 I’m interested in Python.
-- 🌱 I’m currently learning Vue.
-- 💞️ I’m looking to collaborate with some excellent developers on web development.
+- 👋 Hi, I’m @SDWally, working in Shanghai, quant developer.
+- 👀 I’m interested in Python/C++, known a little javascript.
+- 🌱 I’m currently learning C++.
+- 💞️ I’m looking to collaborate with some excellent developers on web development or quantitative trading system.
 - 📫 contact me at 1161512420@qq.com
 
 <!---
